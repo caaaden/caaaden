@@ -1,5 +1,5 @@
 ## Hi there 👋
-![caaaden's GitHub stats](https://github-readme-stats.vercel.app/api?username=caaaden&show_icons=true&theme=dark)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=minjun0723)](https://solved.ac/minjun0723)
 
 <!--
 **caaaden/caaaden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
