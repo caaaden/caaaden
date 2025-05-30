@@ -1,7 +1,16 @@
-## Hi there 👋
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=minjun0723)](https://solved.ac/minjun0723)
+<h2 align="center"> Caden Kim </h2>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ik3cryjtvme65hj3pwzqodledi&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+<h3 align="center">🏷️ Cards</h3>
+
+<div align="center">
+  
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=minjun0723)](https://solved.ac/minjun0723)
+
+  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ik3cryjtvme65hj3pwzqodledi&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+</div>
+
+
+
 <!--
 **caaaden/caaaden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
