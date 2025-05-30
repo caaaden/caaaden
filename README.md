@@ -1,5 +1,3 @@
-<h2 align="center"> Caden Kim </h2>
-
 <h3 align="center">🏷️ Cards</h3>
 
 <div align="center">
